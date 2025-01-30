@@ -6,3 +6,4 @@ int b = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine($"Divison Is :" {a\b});
 Console.WriteLine($"Multiplication Is :" {a*b});
 Console.WriteLine($"Subtraction Is :" {a-b});
+Console.WriteLine("Sum Is :"+ a+b);
